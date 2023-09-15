@@ -21,4 +21,4 @@ In addition, returning the relevant pages as images on the user interface allows
 
 Jovi Lim Ke Wei
 linkedin.com/jovi-lim-ke-wei/
-NUS MSc. Quantitative Finance
+National University of Singapore MSc. Quantitative Finance
