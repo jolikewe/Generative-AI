@@ -17,7 +17,7 @@ The advantage of this model is that instead of using typical LLM models which wi
 In addition, returning the relevant pages as images on the user interface allows users to see the exact format and portion of the manual in which the answer to their query is located.
 
 
-## Credits
+## Author
 
 Jovi Lim Ke Wei
 linkedin.com/jovi-lim-ke-wei/
